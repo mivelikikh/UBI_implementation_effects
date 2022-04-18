@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="181mm"
+   height="168mm"
+   viewBox="0 0 181 168"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="schemes_explanations.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="209mm"
+     inkscape:zoom="2.0359278"
+     inkscape:cx="203.59268"
+     inkscape:cy="417.25448"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1095" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker105417"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path105415" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1092" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1077" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1077-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1077-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-8-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1077-7-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1077-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-8-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1077-7-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker105417-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path105415-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1095-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker105417-8-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path105415-8-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1095-5-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker105417-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path105415-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1095-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker105417-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path105415-61" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1095-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker105417-4-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path105415-61-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-2-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1095-1-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker105417-8-4-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path105415-8-1-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6-6-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1095-5-1-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker105417-8-4-6-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path105415-8-1-6-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6-6-3-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1095-5-1-2-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker105417-8-4-6-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path105415-8-1-6-76" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6-6-3-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1095-5-1-2-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker105417-8-4-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path105415-8-1-6-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6-6-3-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1095-5-1-2-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker105417-8-4-6-7-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path105415-8-1-6-3-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6-6-3-5-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1095-5-1-2-3-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker105417-8-4-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path105415-8-1-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6-6-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1095-5-1-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker105417-8-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path105415-8-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1095-5-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker105417-8-52"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path105415-8-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6-81"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1095-5-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker105417-8-5-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path105415-8-7-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6-8-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1095-5-6-8" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 12.681312,60.741647 H 76.547339"
+       id="path60566" />
+    <g
+       id="g22298"
+       transform="translate(0,0.00488281)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+         d="m 12.699762,76.409494 h 66.80662"
+         id="path44" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8)"
+         d="M 12.699762,76.409494 V 9.6028779"
+         id="path44-2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:times;-inkscape-font-specification:times;letter-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+         x="-36.920086"
+         y="9.2042065"
+         id="text4144"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan4142"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:times;-inkscape-font-specification:times;writing-mode:lr-tb;stroke-width:0.264583"
+           x="-36.920086"
+           y="9.2042065">Post-tax income</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:times;-inkscape-font-specification:times;letter-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+         x="54.420593"
+         y="81.480034"
+         id="text4144-8"><tspan
+           sodipodi:role="line"
+           id="tspan4142-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:times;-inkscape-font-specification:times;writing-mode:lr-tb;stroke-width:0.264583"
+           x="54.420593"
+           y="81.480034">Pre-tax income</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:times;-inkscape-font-specification:times;letter-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+         x="6.9400444"
+         y="5.1164837"
+         id="text4144-5"><tspan
+           sodipodi:role="line"
+           id="tspan4142-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:times;-inkscape-font-specification:'times Bold';writing-mode:lr-tb;stroke-width:0.264583"
+           x="6.9400444"
+           y="5.1164837">a) Means-Tested Scheme</tspan></text>
+    </g>
+    <g
+       id="g22308"
+       transform="translate(0,-0.00488544)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-9)"
+         d="M 99.666716,76.419265 H 166.47334"
+         id="path44-7" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-1)"
+         d="M 99.666716,76.419265 V 9.6126486"
+         id="path44-2-2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:times;-inkscape-font-specification:times;letter-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+         x="-36.929855"
+         y="96.171158"
+         id="text4144-2"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan4142-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:times;-inkscape-font-specification:times;writing-mode:lr-tb;stroke-width:0.264583"
+           x="-36.929855"
+           y="96.171158">Post-tax income</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:times;-inkscape-font-specification:times;letter-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+         x="141.38754"
+         y="81.489799"
+         id="text4144-8-7"><tspan
+           sodipodi:role="line"
+           id="tspan4142-4-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:times;-inkscape-font-specification:times;writing-mode:lr-tb;stroke-width:0.264583"
+           x="141.38754"
+           y="81.489799">Pre-tax income</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:times;-inkscape-font-specification:times;letter-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+         x="93.906998"
+         y="5.1262546"
+         id="text4144-5-6"><tspan
+           sodipodi:role="line"
+           id="tspan4142-7-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:times;-inkscape-font-specification:'times Bold';writing-mode:lr-tb;stroke-width:0.264583"
+           x="93.906998"
+           y="5.1262546">b) UBI Scheme</tspan></text>
+    </g>
+    <g
+       id="g22318"
+       transform="translate(-58.488696,-3.3081683)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-4)"
+         d="M 70.995923,162.61543 H 137.80254"
+         id="path44-76" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-8-5)"
+         d="M 70.995923,162.61543 V 95.808812"
+         id="path44-2-7" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:times;-inkscape-font-specification:times;letter-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+         x="-123.12602"
+         y="67.500366"
+         id="text4144-87"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan4142-49"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:times;-inkscape-font-specification:times;writing-mode:lr-tb;stroke-width:0.264583"
+           x="-123.12602"
+           y="67.500366">Post-tax income</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:times;-inkscape-font-specification:times;letter-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+         x="112.71675"
+         y="167.68597"
+         id="text4144-8-5"><tspan
+           sodipodi:role="line"
+           id="tspan4142-4-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:times;-inkscape-font-specification:times;writing-mode:lr-tb;stroke-width:0.264583"
+           x="112.71675"
+           y="167.68597">Pre-tax income</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:times;-inkscape-font-specification:times;letter-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+         x="65.236206"
+         y="91.322418"
+         id="text4144-5-1"><tspan
+           sodipodi:role="line"
+           id="tspan4142-7-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:times;-inkscape-font-specification:'times Bold';writing-mode:lr-tb;stroke-width:0.264583"
+           x="65.236206"
+           y="91.322418">c) NIT Scheme</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#79bf30;stroke-width:0.301;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.204, 1.204;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 12.708441,76.405696 77.538181,11.575958"
+       id="path26050" />
+    <path
+       style="fill:none;stroke:#f46930;stroke-width:0.301;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.204, 1.204;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 99.666716,76.41438 164.49646,11.584642"
+       id="path26050-5" />
+    <path
+       style="fill:none;stroke:#79bf30;stroke-width:0.301;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.204, 1.204;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 12.507227,159.30726 77.336965,94.477521"
+       id="path26050-2" />
+    <g
+       id="g116914"
+       transform="translate(-0.12995713,4.9383708)">
+      <path
+         style="fill:none;stroke:#79bf30;stroke-width:0.301;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.204, 1.204;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 99.245053,97.808284 27.568067,0.18379"
+         id="path29979" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:0.75;font-family:sans-serif;text-align:start;letter-spacing:0px;writing-mode:vertical-lr;text-anchor:start;stroke-width:0.264583"
+         x="131.22401"
+         y="96.011223"
+         id="text35958"><tspan
+           sodipodi:role="line"
+           id="tspan35956"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="131.22401"
+           y="96.011223">amount of after-tax income </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="131.22401"
+           y="98.744225"
+           id="tspan42416">at zero taxation and zero </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="131.22401"
+           y="101.47723"
+           id="tspan48138">guaranteed minimum income</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;writing-mode:vertical-lr;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="-60.971188"
+       y="9.1838608"
+       id="text55089"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan55087"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="9.1838608"
+         y="-60.971188">G</tspan></text>
+    <g
+       id="g116907"
+       transform="translate(-0.12995713,5.1939766)">
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:0.75;font-family:sans-serif;text-align:start;letter-spacing:0px;writing-mode:vertical-lr;text-anchor:start;stroke-width:0.264583"
+         x="131.09694"
+         y="105.12799"
+         id="text35958-8"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="131.09694"
+           y="105.12799"
+           id="tspan48138-2">minimum income level</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.146;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 102.72611,103.83548 23.78577,0.18379"
+         id="path29979-0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;writing-mode:vertical-lr;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="-104.16879"
+         y="98.631271"
+         id="text55089-9"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan55087-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="98.631271"
+           y="-104.16879">G</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#0d3ea9;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.720307"
+       d="M 12.681312,60.741647 H 28.303217 L 77.558166,23.616646"
+       id="path49957" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.66, 0.33, 0.165, 0.33;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 28.303217,60.741647 V 76.363551"
+       id="path60681" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;writing-mode:vertical-lr;fill:#0d3ea9;fill-opacity:0.721569;stroke-width:0.264583"
+       x="-78.534737"
+       y="27.084251"
+       id="text55089-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan55087-50"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="27.084251"
+         y="-78.534737">y*</tspan></text>
+    <g
+       id="g78326"
+       transform="translate(0,2.0967803)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;writing-mode:vertical-lr;fill:#0d3ea9;fill-opacity:0.721569;stroke-width:0.264583"
+         x="-117.12444"
+         y="98.621452"
+         id="text55089-6-7"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan55087-50-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="98.621452"
+           y="-117.12444">y*</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.260997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.04399, 0.521994, 0.260997, 0.521994;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 103.44354,117.20687 h 23.24908"
+         id="path63142" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:0.75;font-family:sans-serif;text-align:start;letter-spacing:0px;writing-mode:vertical-lr;text-anchor:start;stroke-width:0.264583"
+         x="130.88916"
+         y="118.40749"
+         id="text35958-8-6"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="130.88916"
+           y="118.40749"
+           id="tspan48138-2-6">income threshold</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;writing-mode:vertical-lr;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="-60.156021"
+       y="94.626022"
+       id="text55089-3"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan55087-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="94.626022"
+         y="-60.156021">BI</tspan></text>
+    <path
+       style="fill:none;stroke:#0d3ea9;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.721569"
+       d="M 99.428836,59.914604 165.22463,29.038367"
+       id="path65854" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.234031;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.936122, 0.468061, 0.234031, 0.468061;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 131.34414,45.028102 V 76.455699"
+       id="path60681-7" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;writing-mode:vertical-lr;fill:#0d3ea9;fill-opacity:0.721569;stroke-width:0.264583"
+       x="-78.411179"
+       y="130.49274"
+       id="text55089-6-6"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan55087-50-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="130.49274"
+         y="-78.411179">y*</tspan></text>
+    <path
+       style="fill:none;stroke:#d00bdb;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.59, 1.59;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 99.428836,59.914604 147.76485,11.578589"
+       id="path66178" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;writing-mode:vertical-lr;fill:#d00bdb;fill-opacity:1;stroke-width:0.264583"
+       x="-9.2469893"
+       y="148.47565"
+       id="text55089-3-0"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan55087-4-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#d00bdb;fill-opacity:1;stroke-width:0.264583"
+         x="148.47565"
+         y="-9.2469893" /></text>
+    <g
+       id="g116889"
+       transform="translate(-0.12995713,5.2038499)">
+      <path
+         style="fill:none;stroke:#d00bdb;stroke-width:0.301;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.204, 1.204;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 98.758837,122.11745 27.568073,0.18379"
+         id="path29979-2" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:0.75;font-family:sans-serif;text-align:start;letter-spacing:0px;writing-mode:vertical-lr;text-anchor:start;stroke-width:0.264583"
+         x="130.72687"
+         y="122.04346"
+         id="text35958-6"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="130.72687"
+           y="122.04346"
+           id="tspan48138-9">sum of before-tax income </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="130.72687"
+           y="124.77646"
+           id="tspan75683">and basic income</tspan></text>
+    </g>
+    <g
+       id="g116894"
+       transform="translate(-0.12995713,5.4260532)">
+      <path
+         style="fill:none;stroke:#f46930;stroke-width:0.301;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.204, 1.204;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 98.954166,117.3355 27.568084,0.18379"
+         id="path29979-7" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:0.75;font-family:sans-serif;text-align:start;letter-spacing:0px;writing-mode:vertical-lr;text-anchor:start;stroke-width:0.264583"
+         x="130.85683"
+         y="118.62801"
+         id="text35958-1"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="130.85683"
+           y="118.62801"
+           id="tspan48138-0">amount of before-tax income </tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.304243;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 99.428836,59.914604 H 165.11426"
+       id="path60566-0" />
+    <g
+       id="g116883"
+       transform="translate(-0.12995713,4.672537)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.183786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 102.57261,127.30039 H 126.5418"
+         id="path60566-0-2" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:0.75;font-family:sans-serif;text-align:start;letter-spacing:0px;writing-mode:vertical-lr;text-anchor:start;stroke-width:0.264583"
+         x="130.85631"
+         y="128.50101"
+         id="text35958-6-0"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="130.85631"
+           y="128.50101"
+           id="tspan75683-2">not-taxed basic income</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;writing-mode:vertical-lr;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="-127.54181"
+         y="98.301666"
+         id="text55089-3-4"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan55087-4-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;fill-opacity:1;stroke-width:0.264583"
+           x="98.301666"
+           y="-127.54181">BI</tspan></text>
+    </g>
+    <g
+       id="g116900"
+       transform="translate(-0.12995713,5.0188543)">
+      <path
+         style="fill:none;stroke:#0d3ea9;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.721569"
+         d="M 127.20083,109.01536 H 98.870138"
+         id="path89761-4" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:0.75;font-family:sans-serif;text-align:start;letter-spacing:0px;writing-mode:vertical-lr;text-anchor:start;stroke-width:0.264583"
+         x="131.24561"
+         y="108.49635"
+         id="text35958-6-0-5-6"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="131.24561"
+           y="108.49635"
+           id="tspan97219-9">after-tax income (considering</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="131.24561"
+           y="111.22935"
+           id="tspan97973-5">taxes and transfers)</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#f46930;stroke-width:0.301;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.204, 1.204;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 12.507227,159.30726 77.336971,94.477526"
+       id="path26050-5-5" />
+    <path
+       style="fill:none;stroke:#0d3ea9;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.721569"
+       d="M 12.269347,142.80749 78.065141,111.93125"
+       id="path65854-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.335108;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.34043, 0.670214, 0.335108, 0.670214;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 44.184651,94.911869 V 159.34858"
+       id="path60681-7-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';letter-spacing:0px;writing-mode:vertical-lr;fill:#0d3ea9;fill-opacity:0.721569;stroke-width:0.264583"
+       x="-161.30406"
+       y="43.333248"
+       id="text55089-6-6-3"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan55087-50-6-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="43.333248"
+         y="-161.30406">y*</tspan></text>
+    <path
+       style="fill:none;stroke:#79bf30;stroke-width:0.0930545;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0465273, 0.0465273;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker105417-8);marker-end:url(#Arrow2Lend-6)"
+       d="m 35.293137,137.89632 h 8.114981"
+       id="path105325-5" />
+    <path
+       style="fill:none;stroke:#79bf30;stroke-width:0.152359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0761797, 0.0761797;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker105417-8-5);marker-end:url(#Arrow2Lend-6-8)"
+       d="M 21.31961,151.72494 H 43.074145"
+       id="path105325-5-30" />
+    <path
+       style="fill:none;stroke:#d00bdb;stroke-width:0.152359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0761797, 0.0761797;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker105417-8-5-9);marker-end:url(#Arrow2Lend-6-8-1)"
+       d="M 45.403508,103.44587 H 67.158043"
+       id="path105325-5-30-7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.111935;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0559676, 0.0559676;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker105417-8-4-6);marker-end:url(#Arrow2Lend-6-6-3)"
+       d="m 107.60737,54.227361 v 11.74206"
+       id="path105325-5-3-9" />
+    <g
+       id="g116871"
+       transform="translate(-0.12995713,4.1442071)">
+      <path
+         style="fill:none;stroke:#79bf30;stroke-width:0.172279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0861396, 0.0861396;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker105417-4);marker-end:url(#Arrow2Lend-2)"
+         d="m 99.05354,135.93827 h 27.81481"
+         id="path105325-9" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:0.75;font-family:sans-serif;text-align:start;letter-spacing:0px;writing-mode:vertical-lr;text-anchor:start;stroke-width:0.264583"
+         x="130.80219"
+         y="135.41582"
+         id="text35958-6-0-6"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="130.80219"
+           y="135.41582"
+           id="tspan75683-2-7">amount of the benefit</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="130.80219"
+           y="138.14882"
+           id="tspan108199">(negative tax)</tspan></text>
+    </g>
+    <g
+       id="g116865"
+       transform="translate(-0.12995713,4.9383708)">
+      <path
+         style="fill:none;stroke:#d00bdb;stroke-width:0.172279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0861396, 0.0861396;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker105417-4-9);marker-end:url(#Arrow2Lend-2-2)"
+         d="M 99.053513,141.78003 H 126.86835"
+         id="path105325-9-8" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:0.75;font-family:sans-serif;text-align:start;letter-spacing:0px;writing-mode:vertical-lr;text-anchor:start;stroke-width:0.264583"
+         x="130.85596"
+         y="141.26102"
+         id="text35958-6-0-6-7"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="130.85596"
+           y="141.26102"
+           id="tspan75683-2-7-5">amount of the benefit</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="130.85596"
+           y="143.99402"
+           id="tspan108199-2">(positive tax)</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.111935;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0559676, 0.0559676;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker105417-8-4-6-9);marker-end:url(#Arrow2Lend-6-6-3-1)"
+       d="m 121.11572,40.994688 v 11.74206"
+       id="path105325-5-3-9-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.111935;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0559676, 0.0559676;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker105417-8-4-6-0);marker-end:url(#Arrow2Lend-6-6-3-6)"
+       d="m 133.33756,28.864737 v 11.74206"
+       id="path105325-5-3-9-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.111935;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0559676, 0.0559676;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker105417-8-4-6-7);marker-end:url(#Arrow2Lend-6-6-3-5)"
+       d="m 146.11077,15.815852 v 11.74206"
+       id="path105325-5-3-9-6" />
+    <g
+       id="g116876"
+       transform="translate(-0.12995713,4.2424251)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.173801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0869006, 0.0869006;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker105417-8-4-6-7-7);marker-end:url(#Arrow2Lend-6-6-3-5-9)"
+         d="M 127.288,130.92374 H 98.979527"
+         id="path105325-5-3-9-6-2" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;line-height:0.75;font-family:sans-serif;text-align:start;letter-spacing:0px;writing-mode:vertical-lr;text-anchor:start;stroke-width:0.264583"
+         x="130.81825"
+         y="132.12436"
+         id="text35958-6-0-6-6"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           x="130.81825"
+           y="132.12436"
+           id="tspan108199-9">amount of basic income</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#d00bdb;stroke-width:0.0930545;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.0465273, 0.0465273;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker105417-8-52);marker-end:url(#Arrow2Lend-6-81)"
+       d="m 45.066304,117.35129 h 8.114981"
+       id="path105325-5-4" />
+  </g>
+</svg>
